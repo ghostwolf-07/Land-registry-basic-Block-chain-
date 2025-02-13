@@ -53,8 +53,7 @@ The **Land Registry System** is a decentralized application (DApp) built using *
 5. Compile the smart contracts to prepare them for deployment.
 6. Migrate the smart contracts to the local Ethereum blockchain using Truffle.
 7. Launch the frontend by opening the project in any HTTP server (like the Live Server extension in Visual Studio Code or another local server).
-
-                                                       OR
-1. Open Remix IDE(https://remix.ethereum.org/#lang=en&optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.26+commit.8a97fa7a.js) which is web 3 dev IDE and compile & deploy it.
+   OR
+1. Open Remix IDE.[Remix](https://remix.ethereum.org/#lang=en&optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.26+commit.8a97fa7a.js) which is web 3 dev IDE and compile & deploy it.
 
 
