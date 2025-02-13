@@ -10,6 +10,18 @@ The **Land Registry System** is a decentralized application (DApp) built using *
 - **Smart Contracts**: Smart contracts automatically enforce the terms of land transactions, ensuring both parties meet their obligations.
 - **Decentralized and Transparent**: All transactions are transparent and visible to all network participants, promoting trust and fairness.
 
+## Screenshots
+<img width="958" alt="deployment" src="https://github.com/user-attachments/assets/38f92296-53cb-4721-ad3c-f075f7f1c17f" />
+<img width="959" alt="7" src="https://github.com/user-attachments/assets/c53948fb-d59e-40c6-8643-541b2fd48269" />
+<img width="959" alt="6" src="https://github.com/user-attachments/assets/959c48c7-f216-437d-8fd3-be1247ce546d" />
+<img width="959" alt="5" src="https://github.com/user-attachments/assets/93bbac50-db99-4354-8527-f07b5a47bb93" />
+<img width="959" alt="4" src="https://github.com/user-attachments/assets/3d544a79-e068-4dff-a5c0-24f88da0c2cb" />
+<img width="958" alt="3" src="https://github.com/user-attachments/assets/f7126a54-d29c-4675-aa01-00c211a96e06" />
+<img width="959" alt="2" src="https://github.com/user-attachments/assets/d95a03c0-1259-4f20-a7df-a8ce4131abd5" />
+<img width="959" alt="1" src="https://github.com/user-attachments/assets/f16985fc-2d93-4017-a1c3-5342fe1f5317" />
+
+
+
 
 
 ## Usage
